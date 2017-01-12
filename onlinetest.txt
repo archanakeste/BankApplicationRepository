@@ -1,0 +1,143 @@
+https://github.com/in28minutes/SpringIn28Minutes
+
+
+online.test.com
+
+number of Modules
+
+
+Module 1  
+
+-------------------------------------------------------------------------------------------------------------------------
+Authentication Module:
+
+Register : Sign in  Screen:
+
+Sign up :  enter the Details :
+
+  1 User name :
+  2 email Id:
+  3 password :
+  4 confirm password:
+  5 mobile number :
+  6.Enrol as a student 
+                 6 enrolled for the type of Entrance Exam :  example : CET (Engineering), Medical  entrance exam:
+				 note number of attempts will be given 10 . after that you need to recharge 
+  7.Enrol as a teacher : check box :
+             provide the logo of your class
+			 Domain name you want to put
+        
+8. enrol for a class :   with uniq Key provided by teacher 		 
+	 9. father Name
+	 10 mobile number of your father :
+  7. payment gate way
+  
+  //validations
+  
+  login success fully
+  
+  Note :risk factors
+  Payment gateway configuration
+  Enrol as a student for a particular teacher  we will provide   separate url  to login 
+  
+  Module 2
+  
+  -----------------------------------------------------------------------------------------------------------------------
+  CET Entrance Module :
+       Well come " sudent Name " to  Entrace Exam of CET
+  
+  1. prepare for CET with our document.
+  p
+  C
+  M
+  B
+  
+  2. last 5 year  CET Question papers
+
+ 3. take the test
+ 
+ select subject : take the test
+--------------------------------------------------------------------------------------------------------------------------
+    
+  Module 3 : 
+  Class Module :
+   with updated url , logo , Domain name
+   
+   well come to the XXX Class : Happy to teach you ;
+   ubiq key generated for this Class:
+   tab1 : class details 
+   
+   1. create classes 
+   
+   class name.
+   subject name:
+   chapter 
+   student group for this class :select student grp
+   
+   
+   2.create student 
+        st group name:
+	    student name
+		standard
+		email id
+		mobile no
+		fee paid
+		pending fee
+		subject
+       test history
+	   latest score
+  3 create class 
+   add student group
+   subject
+  
+  4. Subject 
+  (pending)
+  
+  
+  5.Prepare Question paper:
+       generate Random Question paper by selecting
+         select subject , select chapters
+		 generate question paper 
+		 		 preview
+				 submit
+				 
+       customise question paper
+	   1.text area question. 
+	   2.type of question  objective?: multi choice? fill in the blank?
+	   
+	       1
+		   2
+		   3
+		   4
+		   
+		   ans:
+     
+        Prepare 
+   
+  ---------------------------------------------------------------------------
+ Module 4
+  Test Assignment Module:
+  Create Test:
+   q1, student group ->Assign
+ ........................................................................
+   
+  Administrative Module: 
+  permission to access Roles
+  Roles
+  add 
+   user name ,password ,confirmpassword, All accesscasee 
+   
+   All admin
+   Question Library
+   CET
+   medical + Add
+   
+   Subject Library :
+   P
+   C M  B + ADD
+   
+   
+ 
+   
+   
+  
